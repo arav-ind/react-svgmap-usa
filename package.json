@@ -1,6 +1,6 @@
 {
   "name": "react-svgmap-usa",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Interactive SVG Map of USA with hover and click functionality",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
