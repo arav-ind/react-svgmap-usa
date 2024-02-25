@@ -13,12 +13,14 @@
     "url": "git+https://github.com/arav-ind/react-svgmap-usa.git"
   },
   "keywords": [
-    "india",
+    "usa",
     "svgmap",
-    "indiamap",
-    "svgmap-india",
+    "usamap",
+    "svgmap-usa",
     "react",
-    "map component"
+    "map component usa",
+    "us map",
+    "united states"
   ],
   "author": "Aravind D",
   "license": "ISC",
