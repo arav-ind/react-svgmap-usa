@@ -1,6 +1,6 @@
 # React SVG Map USA
 
-This package generates an interactive SVG map of USA. It allows users to highlight states on hover and retrieve the value of the selected state. The map includes all states and union territories of USA.
+This package generates an interactive SVG map of USA. It allows users to highlight states on hover and retrieve the value of the selected state. The map includes all the states of USA.
 
 ![USA Map](./svgmap.gif)
 
@@ -10,6 +10,66 @@ Install the package via npm:
 
 ```bash
 npm install react-svgmap-usa
+```
+
+## State List
+
+The following are the states mapped with ID.
+
+```js
+const stateNames = {
+  HI: 'Hawaii',
+  AK: 'Alaska',
+  FL: 'Florida',
+  NH: 'New Hampshire',
+  MI: 'Michigan',
+  VT: 'Vermont',
+  ME: 'Maine',
+  RI: 'Rhode Island',
+  NY: 'New York',
+  PA: 'Pennsylvania',
+  NJ: 'New Jersey',
+  DE: 'Delaware',
+  MD: 'Maryland',
+  VA: 'Virginia',
+  WV: 'West Virginia',
+  OH: 'Ohio',
+  IN: 'Indiana',
+  IL: 'Illinois',
+  CT: 'Connecticut',
+  WI: 'Wisconsin',
+  NC: 'North Carolina',
+  DC: 'District of Columbia',
+  MA: 'Massachusetts',
+  TN: 'Tennessee',
+  AR: 'Arkansas',
+  MO: 'Missouri',
+  GA: 'Georgia',
+  SC: 'South Carolina',
+  KY: 'Kentucky',
+  AL: 'Alabama',
+  LA: 'Louisiana',
+  MS: 'Mississippi',
+  IA: 'Iowa',
+  MN: 'Minnesota',
+  OK: 'Oklahoma',
+  TX: 'Texas',
+  NM: 'New Mexico',
+  KS: 'Kansas',
+  NE: 'Nebraska',
+  SD: 'South Dakota',
+  ND: 'North Dakota',
+  WY: 'Wyoming',
+  MT: 'Montana',
+  CO: 'Colorado',
+  ID: 'Idaho',
+  UT: 'Utah',
+  AZ: 'Arizona',
+  NV: 'Nevada',
+  OR: 'Oregon',
+  WA: 'Washington',
+  CA: 'California'
+}
 ```
 
 ## Usage
