@@ -14,7 +14,7 @@ npm install react-svgmap-usa
 
 ## State List
 
-The following are the states mapped with ID.
+The following are the states mapped with its ID.
 
 ```js
 const stateNames = {
