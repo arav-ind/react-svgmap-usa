@@ -58,4 +58,4 @@ Pull requests are welcome.
 
 ## Credits
 
-Reference of SVG map taken from [MAPSVG](https://mapsvg.com/maps/USA).
+Reference of SVG map taken from [MAPSVG](https://mapsvg.com/maps).
