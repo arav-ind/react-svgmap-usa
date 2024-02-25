@@ -9,7 +9,7 @@ This package generates an interactive SVG map of USA. It allows users to highlig
 Install the package via npm:
 
 ```bash
-npm install react-svgmap-USA
+npm install react-svgmap-usa
 ```
 
 ## Usage
